@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**jaddis53/jaddis53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 😊, I'm Jalal Addisu</h1>
+<h3 align="center">A Software Developer from Ethiopia</h3>
 
-Here are some ideas to get you started:
+<img src="2244.jpg" alt="Profile Banner" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- I'm currently working on **[https://github.com/jaddis53/Berso.git]**
+- I'm currently learning **[Cloud, Microservices & Graphql]**
+- Ask me about **[MERN]**
+- Reach me at **jayaddisu@gmail.com**
+
+### Languages & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="40" />
+</p>
+
+### Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/jalal-geleta)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://project-3-d-developer-portfolio-iota-ten.vercel.app/)
+
+### 📊 GitHub Stats  
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaddis53&show_icons=true&theme=radical)  
+![My GitHub Streak](https://streak-stats.demolab.com?user=jaddis53&theme=radical)  
