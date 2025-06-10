@@ -52,5 +52,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://project-3-d-developer-portfolio-iota-ten.vercel.app/)
 
 ### 📊 GitHub Stats  
+
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaddis53&show_icons=true&theme=radical)  
 ![My GitHub Streak](https://streak-stats.demolab.com?user=jaddis53&theme=radical)  
