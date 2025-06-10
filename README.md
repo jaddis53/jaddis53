@@ -46,10 +46,10 @@
 
 ### 📊 GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=rainbows-n-sunshine&show_icons=true&theme=radical)  
-![My GitHub Streak](https://streak-stats.demolab.com?user=rainbows-n-sunshine&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaddis53&show_icons=true&theme=radical)  
+![My GitHub Streak](https://streak-stats.demolab.com?user=jaddis53&theme=radical)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/jalal-geleta)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://project-3-d-developer-portfolio-iota-ten.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://my-portfolio-1klu.onrender.com/)
 
 ### 📊 GitHub Stats  
 
