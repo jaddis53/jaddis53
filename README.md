@@ -36,10 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" width="40" />
 </p>
 
-### 📊 GitHub Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaddis53&show_icons=true&theme=radical)  
-![My GitHub Streak](https://streak-stats.demolab.com?user=jaddis53&theme=radical)
 
 ### Connect With Me
 
